@@ -34,3 +34,14 @@ A professional, lightweight drawing application built using **C#** and **Windows
 1. Clone this repository:
    ```bash
    git clone [https://github.com/AbooodGh/MySimplePaint.git](https://github.com/AbooodGh/MySimplePaint.git)
+---
+
+## 🤝 Connect with Me
+- **LinkedIn:** [Abdalrahman Gabayen](https://www.linkedin.com/in/abdalrahmangabayen)
+- **GitHub:** [@AbooodGh](https://github.com/AbooodGh)
+- **Email:** abdalrahmangabayen@gmail.com
+
+---
+*Developed with a focus on clean code and scalable software architecture.*
+
+##### Developed by: AbooodGh 👨‍💻
