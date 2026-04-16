@@ -36,8 +36,12 @@ A professional, lightweight drawing application built using **C#** and **Windows
    git clone [https://github.com/AbooodGh/MySimplePaint.git](https://github.com/AbooodGh/MySimplePaint.git)
 ---
 
+## 🎥 Watch it in Action
+See the program and the **Timer Logic** in action through this video demonstration:
+🔗 **[LinkedIn Video Demo](https://www.linkedin.com/feed/update/urn:li:activity:7450603624721813505/)**
+
 ## 🤝 Connect with Me
-- **LinkedIn:** [Abdalrahman Gabayen]([https://www.linkedin.com/in/abdalrahmangabayen](https://www.linkedin.com/feed/update/urn:li:activity:7450603624721813505/))
+- **LinkedIn:** [Abd Al-Rahman Ghabayen](https://www.linkedin.com/in/abd-al-rahman-ghabayen/)
 - **GitHub:** [@AbooodGh](https://github.com/AbooodGh)
 - **Email:** abdalrahmangabayen@gmail.com
 
