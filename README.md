@@ -37,7 +37,7 @@ A professional, lightweight drawing application built using **C#** and **Windows
 ---
 
 ## 🤝 Connect with Me
-- **LinkedIn:** [Abdalrahman Gabayen](https://www.linkedin.com/in/abdalrahmangabayen)
+- **LinkedIn:** [Abdalrahman Gabayen]([https://www.linkedin.com/in/abdalrahmangabayen](https://www.linkedin.com/feed/update/urn:li:activity:7450603624721813505/))
 - **GitHub:** [@AbooodGh](https://github.com/AbooodGh)
 - **Email:** abdalrahmangabayen@gmail.com
 
